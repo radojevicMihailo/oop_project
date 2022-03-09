@@ -1,0 +1,38 @@
+﻿  Simulator.cpp
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\CvorGrafa.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(6,20): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(9,20): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(46,21): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(53,25): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(60,25): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(67,25): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(84,25): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(91,25): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(98,25): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(122,20): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(144,20): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(212,20): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(222,21): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(231,21): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(241,23): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(249,20): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(290,20): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(303,20): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(396,20): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(413,20): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(436,20): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(449,20): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(462,20): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(474,20): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(483,20): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(484,25): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(495,20): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(503,20): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(595,21): warning C4018: '<': signed/unsigned mismatch
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(471): warning C4715: 'Simulator::pronadjiCvor': not all control paths return a value
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(458): warning C4715: 'Simulator::pronadjiLiniju': not all control paths return a value
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(445): warning C4715: 'Simulator::pronadjiStajaliste': not all control paths return a value
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(500): warning C4715: 'Simulator::pronadjiMojuSifru': not all control paths return a value
+D:\Semestar III\OOP\Projektni zadatak\Resenje1\Resenje1\Simulator.cpp(508): warning C4715: 'Simulator::pronadjiSifruStajalista': not all control paths return a value
+  Resenje1.vcxproj -> D:\Semestar III\OOP\Projektni zadatak\Resenje1\Debug\Resenje1.exe
